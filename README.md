@@ -15,7 +15,7 @@ We mapped sex differences in regional cortical anatomy in three cohorts (HCP-YA,
 - `fdr_bh` (Benjamini–Hochberg FDR) and `hexscatter` (MATLAB File Exchange)
 - `daviolinplot` ([DataViz](https://github.com/povilaskarvelis/DataViz))
 
-Some custom visualization functions (`loadColorMaps`, `ThreshColorMap`, `HyoMagetView*`, `HyoSurfacePlotFunction`) are not included. They only affect figure rendering, not the statistics.
+Some custom visualization functions (`loadColorMaps`, `ThreshColorMap`, `HyoSurfacePlotFunction`) are not included. They only affect figure rendering, not the statistics.
 
 ## Data
 
